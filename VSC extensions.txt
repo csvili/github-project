@@ -1,0 +1,3 @@
+prettier: formázza a kódot
+live server beallitasok after delay egybol latjjuk mit csinalunk
+mithril emmet egyszerubb kodolas pl ! egybol kiadja a htmlt

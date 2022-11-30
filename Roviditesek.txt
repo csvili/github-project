@@ -1,0 +1,3 @@
+ctrl+shift+l ugyan azt a szót jelöli mindenhol
+shift+alt+felvle másolja a sort
+alt+fel le tolja a sort
